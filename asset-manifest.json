@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/onsitejob-react/static/css/main.4dc9034f.css",
+    "main.js": "/onsitejob-react/static/js/main.a5324fee.js",
+    "static/js/787.f6b2eaaf.chunk.js": "/onsitejob-react/static/js/787.f6b2eaaf.chunk.js",
+    "static/media/contactCover.jpg": "/onsitejob-react/static/media/contactCover.7453ad30e48b5b0c8487.jpg",
+    "static/media/islamabadcover.jpg": "/onsitejob-react/static/media/islamabadcover.d71c1907730443a052cf.jpg",
+    "index.html": "/onsitejob-react/index.html",
+    "main.4dc9034f.css.map": "/onsitejob-react/static/css/main.4dc9034f.css.map",
+    "main.a5324fee.js.map": "/onsitejob-react/static/js/main.a5324fee.js.map",
+    "787.f6b2eaaf.chunk.js.map": "/onsitejob-react/static/js/787.f6b2eaaf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dc9034f.css",
+    "static/js/main.a5324fee.js"
+  ]
+}
